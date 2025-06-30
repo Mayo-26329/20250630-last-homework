@@ -9,7 +9,7 @@ nav.floating{
 
 .first-view {
     height: calc(100vh - 110px);
-    background-image: url(../images/index/top.jpg);
+    background-image: url(../images/top.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -30,7 +30,7 @@ nav.floating{
 }
 
 .first-view-text h1 {
-    font-family: "preconnect", sans-serif;
+    font-family: "Yuji+Mai", sans-serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -63,7 +63,7 @@ a {
 }
 
 body {
-    font-family: "preconnect", sans-serif;
+    font-family: "Yuji+Mai", sans-serif;
     font-size: 16pt;
     color: #f10505;
     line-height: 1;
@@ -106,5 +106,5 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: "preconnect", sans-serif;
+    font-family: "Yuji+Mai", sans-serif;
 }
