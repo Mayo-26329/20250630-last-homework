@@ -4,7 +4,7 @@ nav.floating{
     position:absolute;
     top: 100px;
     left: 50px;
-    background-color: #d0d0d0;
+    background-color: #090909;
 }
 
 .first-view {
@@ -24,7 +24,7 @@ nav.floating{
     margin-right: auto;
     padding-left: 40ox;
     padding-bottom: 80px;
-    color: #ffffff;
+    color: #f40505;
     font-weight: bold;
     text-shadow: 1px 1px 10px #4b2c14;
 }
@@ -65,9 +65,9 @@ a {
 body {
     font-family: "preconnect", sans-serif;
     font-size: 16pt;
-    color: #000000;
+    color: #f10505;
     line-height: 1;
-    background-color: #ffffff;
+    background-color: #100f0f;
 }
 
 img {
