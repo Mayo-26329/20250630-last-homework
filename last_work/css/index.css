@@ -14,6 +14,7 @@ nav.floating{
     background-position: center center;
     background-size: cover;
     display: flex;
+    text-align: center;
     align-items: center;
 }
 
