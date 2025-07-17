@@ -41,6 +41,15 @@ nav.floating{
     margin-top: 20px;
 }
 
+.box1{
+    margin:0 0 1em 1em;
+    padding: 2em;
+    width:170px;
+    height:50px;
+    border:double #FFF;
+    box-sizing: border-box;
+}
+
 .lead {
     max-width: 1200px;
     margin: 60px auto;
