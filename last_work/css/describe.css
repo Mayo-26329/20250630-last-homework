@@ -85,6 +85,7 @@ nav.floating{
     color: #fff;
     font-size: 18px;
     line-height: 1.5;
+    justify-content: flex-start;
 }
 
 .box-text dl {
