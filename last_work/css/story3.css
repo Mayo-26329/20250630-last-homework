@@ -55,6 +55,12 @@ nav.floating{
     margin: 60px auto;
 }
 
+.footer-logo img {
+    width: 100vw;     /* 画面幅いっぱいに伸ばす */
+    height: auto;     
+    display: block;   
+}
+
 *,
 ::before,
 ::after {
