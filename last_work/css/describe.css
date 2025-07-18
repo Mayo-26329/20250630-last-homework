@@ -42,6 +42,8 @@ nav.floating{
 }
 
 .box1{
+    display: flex;
+    align-items: center;
     margin:0 0 2em 1em;
     padding: 2em;
     width:1200px;
@@ -51,6 +53,8 @@ nav.floating{
 }
 
 .box2{
+    display: flex;
+    align-items: center;
     margin:0 0 2em 1em;
     padding: 2em;
     width:1200px;
@@ -60,12 +64,29 @@ nav.floating{
 }
 
 .box3{
+    display: flex;
+    align-items: center;
     margin:0 0 2em 1em;
     padding: 2em;
     width:1200px;
     height:200px;
     border:double #FFF;
     box-sizing: border-box;
+}
+
+.box-img {
+    width: 40%;
+    height: 100%;
+    object-fit: cover;
+    margin-right: 20px;
+    border: 2px solid #fff;
+}
+
+.box-text {
+    width: 60%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
 }
 
 .lead {
