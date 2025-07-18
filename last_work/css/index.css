@@ -47,7 +47,7 @@ nav.floating{
 }
 .footer-logo img {
     width: 100vw;     /* 画面幅いっぱいに伸ばす */
-    height: auto;     
+    height: 200px;     
     display: block;   
 }
 *,
