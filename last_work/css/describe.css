@@ -75,18 +75,35 @@ nav.floating{
 }
 
 .box-img {
-    width: 40%;
+    width: 45%;
     height: 100%;
     object-fit: cover;
     margin-right: 20px;
-    border: 2px solid #fff;
+    border: 2px solid #4b3a3a;
 }
 
 .box-text {
-    width: 60%;
+    width: 1200px;
+    height:200px;
     color: #fff;
     font-size: 18px;
     line-height: 1.5;
+}
+
+.box-text dl {
+    margin-bottom: 10px;
+}
+
+.box-text dt {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.box-text dd {
+    margin-left: 0;
+    font-size: 16px;
+    color: #ff4444;
 }
 
 .lead {
