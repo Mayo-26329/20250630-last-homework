@@ -9,7 +9,7 @@ nav.floating{
 
 .first-view {
     height: calc(100vh - 110px);
-    background-image: url(../images/top.jpg);
+    
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -23,7 +23,7 @@ nav.floating{
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 40px;
+    padding-left: 40ox;
     padding-bottom: 80px;
     color: #f40505;
     font-weight: bold;
@@ -39,6 +39,15 @@ nav.floating{
 .first-view-text p {
     font-size: 18px;
     margin-top: 20px;
+}
+
+.box1{
+    margin:0 0 1em 1em;
+    padding: 2em;
+    width:170px;
+    height:50px;
+    border:double #FFF;
+    box-sizing: border-box;
 }
 
 .lead {
