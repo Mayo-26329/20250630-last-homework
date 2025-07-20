@@ -197,6 +197,11 @@ img {
     font-family: "Yuji Mai", sans-serif;
 }
 
+.main {
+    margin-top: 150px;
+    padding: 20px;
+}
+
 @media (max-width:800px){
     .site-menu ul{
         display:block;
