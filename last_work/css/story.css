@@ -120,15 +120,34 @@ img {
 
 .site-menu ul {
     display: flex;
+    margin-bottom: 50px;
+    margin-top: 200px;
+    justify-content: center;
+    padding-left: 0;
+    list-style: none;
 }
 
 .site-menu ul li {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    line-height: 2.0;
+    border:none;
+    border-bottom: 4px double #d16f6f;
+    padding-bottom: 5px;
+}
+
+.copyright{
+    text-align: center;
+    line-height: 10;
 }
 
 .site-menu ul li a {
     font-family: "Yuji Mai", sans-serif;
+}
+
+.main {
+    margin-top: 150px;
+    padding: 20px;
 }
 
 .title h1 {
